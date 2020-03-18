@@ -244,7 +244,9 @@ font-size: 1.5rem;
     display: block;
     margin: 0 auto;
 }
-
+    .fas fa-quote-left{
+        margin-left 5px;
+    }
 
 }
 /* =========End Media Queries========== */
